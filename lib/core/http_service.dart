@@ -4,7 +4,7 @@ class HttpService {
   late Dio _dio;
 
   static const String _baseUrl = 'https://pro-api.coinmarketcap.com';
-  static const String _apiKey = '406cb1f3-0a44-4330-a966-f9c4585730d2';
+  static const String _apiKey = 'SUA_API_KEY_AQUI';
 
   HttpService() {
     BaseOptions options = BaseOptions(
